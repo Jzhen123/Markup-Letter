@@ -22,10 +22,3 @@ p,ul,ol,dl,address {
 p, li, dd, dt, address {
   line-height: 1.5;
 }
-
-<style>
-.indented {
-  padding-left: 50pt;
-  padding-right: 50pt;
-}
-</style>
